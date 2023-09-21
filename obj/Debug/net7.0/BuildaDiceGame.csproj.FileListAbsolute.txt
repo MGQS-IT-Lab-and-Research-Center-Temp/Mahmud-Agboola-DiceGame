@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\bin\Debug\net7.0\BuildaDiceGame.exe
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\bin\Debug\net7.0\BuildaDiceGame.deps.json
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\bin\Debug\net7.0\BuildaDiceGame.runtimeconfig.json
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\bin\Debug\net7.0\BuildaDiceGame.dll
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\bin\Debug\net7.0\BuildaDiceGame.pdb
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.dll
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\refint\BuildaDiceGame.dll
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.pdb
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\BuildaDiceGame.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MyCsharpProjects\BuildaDiceGame\obj\Debug\net7.0\ref\BuildaDiceGame.dll
